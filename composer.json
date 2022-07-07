@@ -1,0 +1,19 @@
+{
+    "name": "xxiv/mealdb",
+    "description": "TheMealDB API client.",
+    "type": "library",
+    "keywords": ["api","database"],
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/thechampagne/mealdb-php",
+    "autoload": {
+        "files": ["src/mealdb.php"]
+    },
+    "authors": [
+        {
+            "name": "XXIV"
+        }
+    ],
+    "require": {
+        "php": ">=5"
+    }
+}
